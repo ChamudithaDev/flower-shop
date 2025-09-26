@@ -5,7 +5,7 @@ This project demonstrates **front-end web development** skills using HTML, CSS, 
 
 ---
 ## 📸 Screenshots
-##Home page
+Home page
 ![Homepage](images/homepage.PNG)
 Cart
 ![Shop Page](images/cartpage.png)
