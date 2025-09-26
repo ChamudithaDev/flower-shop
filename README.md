@@ -8,7 +8,7 @@ This project demonstrates **front-end web development** skills using HTML, CSS, 
 
 ![Homepage](images/homepage.png)
 ![Shop Page](images/cartpage.png)
-![Signup Page](images/signupagepng)
+![Signup Page](images/signupage.png)
 ![Contact Page](images/contactuspage.png)
 ![Review Page](images/reviewpage.png)
 ![About Page](images/aboutpage.png)
