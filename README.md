@@ -6,12 +6,12 @@ This project demonstrates **front-end web development** skills using HTML, CSS, 
 ---
 ## 📸 Screenshots
 
-![Homepage](images/homepage.png)
+![Homepage](images/homepage.PNG)
 ![Shop Page](images/cartpage.png)
-![Signup Page](images/signupage.png)
-![Contact Page](images/contactuspage.png)
-![Review Page](images/reviewpage.png)
-![About Page](images/aboutpage.png)
+![Signup Page](images/signupage.PNG)
+![Contact Page](images/contactuspage.PNG)
+![Review Page](images/reviewpage.PNG)
+![About Page](images/aboutpage.PNG)
 
 ---
 
