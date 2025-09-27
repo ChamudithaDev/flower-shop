@@ -43,7 +43,7 @@ About page
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChamudithaDev/flowershop.git
+   git clone https://chamudithadev.github.io/flower-shop/
 
 ---
 ## 🔮 Future Improvements
